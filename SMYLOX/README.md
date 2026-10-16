@@ -1,33 +1,15 @@
-# SMYLOX Premium Storefront Template
+SMYLOX is a modern, responsive storefront template built for an electric toothbrush brand. It’s a fully static front-end project, so there’s nothing to install: open index.html in a browser and everything works.
 
-This is a static ecommerce template for the SMYLOX electric toothbrush brand.
+The template includes 11 ready-to-use pages: Home, Shop, Product Detail, About, Contact, FAQ, Track Order, and the Privacy, Refund, Shipping, and Terms & Conditions policy pages.
 
-## Included Pages
-- `index.html` - Home
-- `shop.html` - Shop / product catalog
-- `product.html` - Product detail page
-- `about.html` - About Us
-- `contact.html` - Contact Us
-- `faq.html` - FAQ
-- `track-order.html` - Track Order
-- `privacy-policy.html` - Privacy Policy
-- `refund-policy.html` - Refund Policy
-- `shipping-policy.html` - Shipping Policy
-- `terms-conditions.html` - Terms and Conditions
+Demo features
 
-## Working Demo Facilities
-- Mobile navigation
-- Product cards and product detail page
-- Persistent browser cart using localStorage
-- Quantity controls and demo checkout
-- Demo order ID generation and tracking
-- Contact form confirmation
-- Newsletter signup confirmation
-- FAQ accordion
+Responsive mobile navigation
+Product cards and product detail page
+Persistent cart using browser localStorage
+Quantity controls and demo checkout
+Demo order ID generation and order tracking
+Contact form and newsletter signup confirmations
+FAQ accordion
 
-## How to View
-Open `index.html` in a browser. A local server such as VS Code Live Server also works.
-
-## Notes
-- This is a static front-end template, not a live Shopify theme.
-- Checkout and tracking are browser-based demo flows and need backend/payment integration for production.
+Note: Checkout and tracking are browser-based demos. A backend and payment gateway are needed for a production store.
